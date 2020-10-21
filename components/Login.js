@@ -48,6 +48,7 @@ class Login extends Component {
             const remember_me = this.state.rememberMe;
             const api_path = `${process.env.HOST}/api/user/login`;
             console.log(process.env.API);
+            console.log('path api');
             console.log(api_path);
             const result = await axios.post(api_path,
                 {
