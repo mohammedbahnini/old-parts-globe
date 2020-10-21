@@ -43,7 +43,7 @@ const nextConfig = {
         PORT: env.PORT,
         HOST: env.HOST,
         API: `${env.HOST}/api`,
-        ENV: 'dev',
+        ENV: 'production',
         PUBLISHABLE_KEY: env.PUBLISHABLE_KEY,
         SESSION_SECRET: env.SESSION_SECRET,
         GMAIL_CLIENT_ID: env.GMAIL_CLIENT_ID,
