@@ -1,0 +1,63 @@
+/* 
+the media queries : 
+420px : small devices 
+991px : medium devices
+1024px : medium devices
+1440px : large devices
+1680px : extra large devices
+*/
+
+.vehicule-breadcrumb{
+    padding : 20px ;
+    margin-bottom : 30px;
+}
+
+.vehicule-submit{
+    width : 100%;
+    text-align: center;
+}
+.vehicule-submit .ps-btn{
+    width : 100%;
+}
+
+.vehicule-search-body{
+    display : flex;
+    flex-wrap: wrap;
+}
+
+.car-select , .model-select , .model-number-select {
+    margin-bottom: 20px;
+}
+
+@media( min-width : 300px){
+    .car-select , .model-select , .model-number-select {
+        width : 100%;
+    }
+}
+
+@media (min-width : 991px){
+    .vehicule-search-body{
+        justify-content: space-between;
+    }
+    .car-select , .model-select , .model-number-select {
+        width : 30%;
+    }
+    .vehicule-submit .ps-btn{
+        width : 30%;
+    }
+}
+
+@media (min-width : 1440px){
+    .vehicule-search-body{
+        justify-content: space-between;
+    }
+    .car-select , .model-select , .model-number-select {
+        width : 22%;
+    }
+    .vehicule-submit{
+        width : 22%;
+    }
+    .vehicule-submit .ps-btn{
+        width : 100%;
+    }
+}

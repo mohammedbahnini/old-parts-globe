@@ -1,0 +1,13 @@
+- Problème de page single entre APIs et DB  (ok)
+- Afficher les annexes des produits dans la page single
+- Problème des photos
+- Utiliser les autres APIs (laximo,...)
+- Gestion des catégories et sous catégories
+- Faire fonctionner la recherche par Marque,Modele,Type,Annee dans la page d'acceuil (dropdowns)
+- Gestion des provinces
+
+
+
+----------------------------------- ADMINISTRATION -----------------------------------
+- Importer un ficher Excel des produits
+- Mise à jour des prix 

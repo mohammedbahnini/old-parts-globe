@@ -1,0 +1,4 @@
+host : 72.9.135.10
+db : era_auto_parts
+user : era_creator
+pass : Gu35T_2020

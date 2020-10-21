@@ -1,0 +1,11 @@
+https://server100.serverange.net:2083/cpsess4986235918/frontend/paper_lantern/index.html?login=1&post_login=51431503178333
+
+
+era
+Soluauto/1900
+
+
+host : 72.9.135.10
+db : era_auto_parts
+user : era_creator
+pass : Gu35T_2020
